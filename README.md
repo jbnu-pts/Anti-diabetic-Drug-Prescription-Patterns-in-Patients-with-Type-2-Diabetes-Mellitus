@@ -22,7 +22,11 @@
 
 ---
 
-`1` .Json File 
+`1` New Cohort Pathway from ATLAS (≥ ver 2.7)
+`2` Copy and Paste Json code from .Json file (does not exist in 'Target_Cohorts & Outcome_Cohorts' folder) into [Utilities]-[Import]
+`3` Click the 'Import'
+`4` Click the 'Generate' from [Excutions]
+`5` [All excutions]-[View reports]
 
 ### Figure Abstract
 
