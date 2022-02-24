@@ -1,0 +1,544 @@
+{
+  "ConceptSets": [
+    {
+      "id": 0,
+      "name": "Su/Glinide",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "4816",
+              "CONCEPT_ID": 19059796,
+              "CONCEPT_NAME": "Gliclazide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "4821",
+              "CONCEPT_ID": 1560171,
+              "CONCEPT_NAME": "Glipizide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP2245211",
+              "CONCEPT_ID": 41047249,
+              "CONCEPT_NAME": "Glyburide 1.75 MG [GLIBENCLAMIDE RATIOPHARM]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444718",
+              "CONCEPT_ID": 43211392,
+              "CONCEPT_NAME": "Glyburide 2.5 MG [GLIBENCLAMIDE ARROW]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444719",
+              "CONCEPT_ID": 43200579,
+              "CONCEPT_NAME": "Glyburide 2.5 MG [GLIBENCLAMIDE BIOGARAN]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444720",
+              "CONCEPT_ID": 43156652,
+              "CONCEPT_NAME": "Glyburide 2.5 MG [GLIBENCLAMIDE MYLAN]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444722",
+              "CONCEPT_ID": 43134530,
+              "CONCEPT_NAME": "Glyburide 2.5 MG [GLIBENCLAMIDE RANBAXY]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444723",
+              "CONCEPT_ID": 43156653,
+              "CONCEPT_NAME": "Glyburide 2.5 MG [GLIBENCLAMIDE SANDOZ]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444724",
+              "CONCEPT_ID": 43189564,
+              "CONCEPT_NAME": "Glyburide 2.5 MG [GLIBENCLAMIDE TEVA]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP2432955",
+              "CONCEPT_ID": 41234993,
+              "CONCEPT_NAME": "Glyburide 3.5 MG [GLIBENCLAMIDE RATIOPHARM]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444645",
+              "CONCEPT_ID": 43134523,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE ARROW]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444646",
+              "CONCEPT_ID": 43200570,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE BIOGARAN]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444647",
+              "CONCEPT_ID": 43145440,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE EG]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444648",
+              "CONCEPT_ID": 43145441,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE MYLAN]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444649",
+              "CONCEPT_ID": 43178649,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE RANBAXY]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444650",
+              "CONCEPT_ID": 43211381,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE RATIOPHARM]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444651",
+              "CONCEPT_ID": 43200571,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE SANDOZ]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Comp",
+              "CONCEPT_CODE": "OMOP444652",
+              "CONCEPT_ID": 43189549,
+              "CONCEPT_NAME": "Glyburide 5 MG [GLIBENCLAMIDE TEVA]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444636",
+              "CONCEPT_ID": 43211379,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE ARROW]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444637",
+              "CONCEPT_ID": 43145436,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE BIOGARAN]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444638",
+              "CONCEPT_ID": 43145437,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE EG]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444639",
+              "CONCEPT_ID": 43145438,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE MYLAN]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444640",
+              "CONCEPT_ID": 43145439,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE RANBAXY]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444641",
+              "CONCEPT_ID": 43178648,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE RATIOPHARM]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444642",
+              "CONCEPT_ID": 43211380,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE SANDOZ]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Branded Drug Form",
+              "CONCEPT_CODE": "OMOP444643",
+              "CONCEPT_ID": 43189548,
+              "CONCEPT_NAME": "Glyburide Oral Tablet [GLIBENCLAMIDE TEVA]",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug Form",
+              "CONCEPT_CODE": "OMOP4689370",
+              "CONCEPT_ID": 42962882,
+              "CONCEPT_NAME": "Metformin / Mitiglinide Calcium hydrate Oral Tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug Comp",
+              "CONCEPT_CODE": "OMOP4689374",
+              "CONCEPT_ID": 42962886,
+              "CONCEPT_NAME": "Mitiglinide Calcium hydrate 10 MG",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Drug Form",
+              "CONCEPT_CODE": "OMOP4689376",
+              "CONCEPT_ID": 42962888,
+              "CONCEPT_NAME": "Mitiglinide Calcium hydrate Oral Tablet",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "25789",
+              "CONCEPT_ID": 1597756,
+              "CONCEPT_NAME": "glimepiride",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "274332",
+              "CONCEPT_ID": 1502826,
+              "CONCEPT_NAME": "nateglinide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "73044",
+              "CONCEPT_ID": 1516766,
+              "CONCEPT_NAME": "repaglinide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [
+      {
+        "DrugExposure": {
+          "CodesetId": 0,
+          "OccurrenceStartDate": {
+            "Value": "2013-01-01",
+            "Extent": "2019-12-31",
+            "Op": "bt"
+          },
+          "VisitType": [
+            {
+              "CONCEPT_CODE": "OP",
+              "CONCEPT_ID": 9202,
+              "CONCEPT_NAME": "Outpatient Visit",
+              "DOMAIN_ID": "Visit",
+              "INVALID_REASON_CAPTION": "Unknown",
+              "STANDARD_CONCEPT_CAPTION": "Unknown",
+              "VOCABULARY_ID": "Visit"
+            }
+          ]
+        }
+      }
+    ],
+    "ObservationWindow": {
+      "PriorDays": 0,
+      "PostDays": 0
+    },
+    "PrimaryCriteriaLimit": {
+      "Type": "All"
+    }
+  },
+  "QualifiedLimit": {
+    "Type": "First"
+  },
+  "ExpressionLimit": {
+    "Type": "All"
+  },
+  "InclusionRules": [],
+  "EndStrategy": {
+    "DateOffset": {
+      "DateField": "EndDate",
+      "Offset": 0
+    }
+  },
+  "CensoringCriteria": [],
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {},
+  "cdmVersionRange": ">=5.0.0"
+}
