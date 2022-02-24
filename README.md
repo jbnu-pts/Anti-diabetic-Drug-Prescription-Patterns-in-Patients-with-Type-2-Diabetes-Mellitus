@@ -26,6 +26,7 @@ Medication utilization patterns have changed significantly over the past 20 year
 
 ---
 
+![Image](https://user-images.githubusercontent.com/100256821/155464195-5fb1dfce-3361-47a2-b3fc-b6f2778b2c2a.PNG)
 
 
 
